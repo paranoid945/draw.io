@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2020-09-04T09:45:55.752Z" agent="5.0 (Windows)" etag="aE3TCEWqMCZvTQwWiW__" version="13.6.6" type="github">
+  <diagram id="ce4EfmpnVut9PDBqGs4J" name="Page-1">
+    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lLAAkKVVTyZHERZt51ed-1" value="internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
+          <mxGeometry x="180" y="80" width="50" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lLAAkKVVTyZHERZt51ed-10" target="lLAAkKVVTyZHERZt51ed-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="170" as="targetPoint" />
+            <mxPoint x="355" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-5" value="手机 - 192.168.1.10" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" parent="1" vertex="1">
+          <mxGeometry x="60" y="357.99999999999994" width="25" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-7" value="&lt;div&gt;无线&lt;/div&gt;" style="endArrow=classicThin;dashed=1;html=1;startArrow=none;startFill=0;rounded=1;endFill=1;strokeWidth=1;" parent="1" source="lLAAkKVVTyZHERZt51ed-5" target="lLAAkKVVTyZHERZt51ed-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="290" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-9" value="有线" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="lLAAkKVVTyZHERZt51ed-8" target="lLAAkKVVTyZHERZt51ed-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="368" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-8" value="个人电脑 - 192.168.1.11" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
+          <mxGeometry x="189.4" y="390" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-10" value="光猫" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" parent="1" vertex="1">
+          <mxGeometry x="160" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-13" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="lLAAkKVVTyZHERZt51ed-11" target="lLAAkKVVTyZHERZt51ed-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-11" value="路由器 - 192.168.1.1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="175" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-15" value="有线" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="1" source="lLAAkKVVTyZHERZt51ed-14" target="lLAAkKVVTyZHERZt51ed-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-14" value="ESXi主机 - 192.168.1.100" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-16" value="虚拟机s1 - 192.168.1.101" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="425" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-18" value="虚拟机s2 - 192.168.1.102" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="590" y="400.9" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLAAkKVVTyZHERZt51ed-19" value="虚拟机s3 - ？" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="425" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
