@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T09:45:55.752Z" agent="5.0 (Windows)" etag="aE3TCEWqMCZvTQwWiW__" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T09:49:14.660Z" agent="5.0 (Windows)" etag="nSUErE8N5NSvzRKUZ0WX" version="13.6.6" type="github">
   <diagram id="ce4EfmpnVut9PDBqGs4J" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lLAAkKVVTyZHERZt51ed-14" value="ESXi主机 - 192.168.1.100" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="360" y="230" width="340" height="340" as="geometry" />
+          <mxGeometry x="360" y="210" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="lLAAkKVVTyZHERZt51ed-16" value="虚拟机s1 - 192.168.1.101" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
           <mxGeometry x="425" y="400" width="40" height="40" as="geometry" />
