@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T08:28:41.714Z" agent="5.0 (Windows)" etag="VCZMfn74djbzdYc-Jkjd" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T08:35:28.092Z" agent="5.0 (Windows)" etag="k0RTcVsvhY-46f1fBsIM" version="13.6.6" type="github">
   <diagram id="ce4EfmpnVut9PDBqGs4J" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="wZdILhWNsc4l5jCaBh4h-2" value="OpenWrt" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
           <mxGeometry x="650" y="530" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9OqMDCa5f0yq5L45_AW7-1" value="Esxi系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="450" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
