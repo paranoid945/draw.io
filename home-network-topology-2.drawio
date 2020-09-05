@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T08:36:36.541Z" agent="5.0 (Windows)" etag="TcOiVkVaKX2z2chUyFNs" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T08:37:50.300Z" agent="5.0 (Windows)" etag="avThELIQ6WgV2DHXJFK_" version="13.6.6" type="github">
   <diagram id="ce4EfmpnVut9PDBqGs4J" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry x="650" y="190" width="40" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8K6BsoJOD2Z_EYC7wY5T-1" value="ESXi系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="360" y="150" width="420" height="400" as="geometry" />
+          <mxGeometry x="390" y="150" width="390" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
