@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T10:27:59.335Z" agent="5.0 (Windows)" etag="TLMzqITGTgEkio0zTcpY" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T08:28:41.714Z" agent="5.0 (Windows)" etag="VCZMfn74djbzdYc-Jkjd" version="13.6.6" type="github">
   <diagram id="ce4EfmpnVut9PDBqGs4J" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,13 +56,13 @@
         <mxCell id="lLAAkKVVTyZHERZt51ed-18" value="虚拟机s2 - 192.168.1.102" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
           <mxGeometry x="650" y="390" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-5" value="网口2 - 10.0.0.2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="lLAAkKVVTyZHERZt51ed-19" target="wZdILhWNsc4l5jCaBh4h-1">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-5" value="网口2 - 10.0.0.2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" parent="1" source="lLAAkKVVTyZHERZt51ed-19" target="wZdILhWNsc4l5jCaBh4h-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="lLAAkKVVTyZHERZt51ed-19" target="_dx8IkZYek12qM7owtc4-1">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" parent="1" source="lLAAkKVVTyZHERZt51ed-19" target="_dx8IkZYek12qM7owtc4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-9" value="网口1 - 192.168.1.103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wZdILhWNsc4l5jCaBh4h-7">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-9" value="网口1 - 192.168.1.103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wZdILhWNsc4l5jCaBh4h-7" vertex="1" connectable="0">
           <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -79,21 +79,21 @@
         <mxCell id="_dx8IkZYek12qM7owtc4-2" value="ESXi系统 - 192.168.1.100" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png" parent="1" vertex="1">
           <mxGeometry x="650" y="190" width="40" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-1" value="ESXi 虚拟交换机-1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" vertex="1" parent="1">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-1" value="ESXi 虚拟交换机-1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;" parent="1" vertex="1">
           <mxGeometry x="370" y="530" width="74.4" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-4" value="网口2 - 10.0.0.1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wZdILhWNsc4l5jCaBh4h-2" target="wZdILhWNsc4l5jCaBh4h-1">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-4" value="lan口 - 10.0.0.1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" parent="1" source="wZdILhWNsc4l5jCaBh4h-2" target="wZdILhWNsc4l5jCaBh4h-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="wZdILhWNsc4l5jCaBh4h-2" target="_dx8IkZYek12qM7owtc4-1">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;" parent="1" source="wZdILhWNsc4l5jCaBh4h-2" target="_dx8IkZYek12qM7owtc4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-8" value="网口1 - 192.168.1.120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wZdILhWNsc4l5jCaBh4h-6">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-8" value="wan口 - 192.168.1.120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wZdILhWNsc4l5jCaBh4h-6" vertex="1" connectable="0">
           <mxGeometry x="-0.6346" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZdILhWNsc4l5jCaBh4h-2" value="OpenWrt" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+        <mxCell id="wZdILhWNsc4l5jCaBh4h-2" value="OpenWrt" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" parent="1" vertex="1">
           <mxGeometry x="650" y="530" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
